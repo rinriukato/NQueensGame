@@ -3,7 +3,7 @@
 ## Preface
 
 Personal python project. Made in a day.
-If you don't know what the 8 queens problem is, [here it is].(https://en.wikipedia.org/wiki/Eight_queens_puzzle)
+If you don't know what the 8 queens problem is, [here it is](https://en.wikipedia.org/wiki/Eight_queens_puzzle).
 
 This is not a preset of placed queens, and therefore is not a backtracking solution. You as the player place down the pieces and it checks if you managed to complete the puzzle.
 This was just a personal project I wanted to make and experiment in making GUIs in Python. 
